@@ -1,0 +1,189 @@
+# Heading 1
+first heading has underline
+## Heading 2
+### Heading 3
+#### Heading 4
+
+
+# Block of text
+this is simple text 
+>this is block special text 
+
+>This is second line  
+
+>if you want to keep in sigle block add greater sign
+>
+>and alwsya use double enter to leave space in liune 
+
+
+# Line Break 
+this is learning of pythone 
+but look in terminal its not breaking line 
+
+so use double enter or use. \ this for line break I dono y not working 
+
+# Combine two things
+-block of code and heading 
+> ## look
+
+# Face of Text
+**for bold double steric**
+
+*for italic use single* 
+
+***for all use***
+
+## or you can use these 
+
+UnderScore 
+
+__double for bold__
+_single for italic_
+___and  3 for you know___
+
+
+# bullet points 
+- day 1
+- day 2
+- day 3
+    - day 5a (use enter and then tab)
+        - day 5a.1
+        - day 5a.2
+
+> Numbering 
+1. day 1
+2. day 2
+3. day 3
+1. day 4 mark down auto correct sea number in code area 
+
+
+>you can use + or * for lisiting 
+
++ day 1
+* day 2
+
+
+# Line break or page break 
+
+You can use - for line
+
+---
+
+See just to remember use full stop after sentence
+
+___
+
+or you can use Under score 
+
+***
+
+or just use staric
+
+
+# Link and Hyperlink 
+
+use the sign <> as bracket \
+<https://www.youtube.com/watch?v=qJqAXjz-Rh4&list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI&index=21&ab_channel=Codanics>
+
+or for custom link us[] and () as follows 
+
+[Click here](https://numpy.org/doc/stable/user/absolute_beginners.html)
+
+
+or you can 
+
+[Numpy]:https://numpy.org/doc/stable/user/absolute_beginners.html 
+
+now this link is saved in this [Numpy]
+
+
+you can click  [here][Numpy] for website of numpy
+
+
+# Images and Figures 
+
+use ! and []  signe and file name in local folder of  code
+
+[](AR.jpeg)
+ 
+if you want to comment above mark down line Shift Alt A 
+
+
+online picture \
+
+
+![Numpy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNumPy&psig=AOvVaw32jGMmDIgHH_1R6nY6jNJO&ust=1651094879719000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjO2-_VsvcCFQAAAAAdAAAAABAD)
+
+
+# Adding code or code block 
+
+Use  this  ` sign before and after of code 
+
+printing code is ` print("hellow world") `
+
+and for block use ``` thrice for starting block and for ending same 
+
+``` 
+x=1 
+y=2 
+z=x+y 
+z
+```
+
+you can use language name for determining the syntax 
+
+```python
+x=1 
+y=2 
+z=x+y 
+z
+```
+
+Just look  at colours 
+
+```R
+x=1 
+y=2 
+z=x+y 
+z
+```
+
+# Adding Tables 
+
+Note use Enter one time 
+use pipe | and the -- for line 
+
+
+ Model | Units | Defects 
+------ |-----  | ----- 
+ QL     | 2    |  2
+picanto|3|33
+
+
+for align ment use : in line --- for middle and also for end as shown 
+
+ Model | Units | Defects 
+:------ | :-----:  | -----: 
+ QL     |  2    |  2
+picanto|3|33
+
+
+# Table of content 
+
+Use [] for making button and then () the link. just put # in () you will get all heading drop down list after extension installation
+
+[Heading](#heading-1)
+
+[headig2](#adding-code-or-code-block)
+
+
+# Intall extensions 
+
+After Installing extension you can use shortcuts of MS word
+
+**Like for Bold**  use Ctr+B 
+_Italic_
+
+## Use right click and check all items 
+
+
